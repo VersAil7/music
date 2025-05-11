@@ -19,6 +19,16 @@ nav {
 a {
     text-decoration: none;
     text-align: center;
+    font-size:35px;
+    color: white;
+}
+
+a:visited {
+    color:black;
+}
+
+a:hover {
+    color:gray;
 }
 
 h1 {
@@ -32,11 +42,12 @@ p {
 }
 
 .reb {
-    width:80px;
-    height:80px;
+    width:250px;
+    height:250px;
 }
 .kar {
-    width: 100px;
-    height: 110px;
+    width: 300px;
+    height: 310px;
 }
+
 
