@@ -1,9 +1,8 @@
 body {
-    font-family: cursive;
+    font-family:sans-serif;
 }
 
 header {
-    background-color: royalblue;
     border: 3px solid black;
     border-radius:10px;
     color:black;
@@ -11,7 +10,7 @@ header {
 
 nav {
     border: 3px solid black;
-    background-color: aqua;
+    background-color: royalblue;
     border-radius: 10px;
     text-align: center;
     color:black;
@@ -24,7 +23,7 @@ a {
 
 h1 {
     text-align: center;
-    font-size:50px;
+    font-size:45px;
 }
 
 p {
@@ -32,7 +31,12 @@ p {
     border-bottom: 3px solid black;
 }
 
-img {
-    width:50px;
-    height:60px;
+.reb {
+    width:80px;
+    height:80px;
 }
+.kar {
+    width: 100px;
+    height: 110px;
+}
+
